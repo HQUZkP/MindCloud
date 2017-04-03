@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="B:\l\androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_d53186a1351d3ddb3d1345978f20e64f14ec8514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_671b7cd1637f62e15f8cfa814b311fb61099882e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_19df2e880f77348973f436bf098eefd13920d892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_e04f461328853414abd0bb84a4b5c60af7c666b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_32bab32afc33cae6fc12c3e3ca68455665320fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_63b33c17e89de89eeb8f957cc939f0625c7fb905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_12c593dcc2a63e0249c8c6002c684d2cca49a48a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_7c90ca35ef74384f57276562ddfc240558425315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_e6087196b21e42ce34abfba1540380a418e3aa8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_a4aa3b7fb4865009c748d27b2caa880d377d4a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ba7e8bf4e247a653d93b5fe1359a4bb6f141639">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_284ee1ee0ac8c1c8f2c1615fec6fa5af48b11afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\logindemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08294a069ab6f9d5c29aa247b45c02a9e960148b">
+        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c65bfdd3c3b12f48e5e94625baaa02bbde1bda8\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_login_div_bg"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_loginid"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="请输入学号"
+        android:inputType="text"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/et_loginid"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:hint="请输入姓名"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/et_academy"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/et_loginpsd"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:hint="请输入学院"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/et_grade"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/et_loginpsd"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:hint="请输入年级"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/et_specialty"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/et_loginpsd"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:hint="请输入专业"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/et_class"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/et_loginpsd"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rigidter_editbox"
+        android:hint="请输入班级"
+        android:lines="1"
+        android:paddingLeft="5dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_confirm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_login_bg_selector"
+            android:text="提交" />
+
+        <Button
+            android:id="@+id/btn_cancle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_login_bg_selector"
+            android:text="取消" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

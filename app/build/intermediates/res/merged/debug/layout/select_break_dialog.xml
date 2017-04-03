@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_login_div_bg"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <Button
+        android:id="@+id/btn_baisinov"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/costum_btn"
+        android:text="百思不得姐"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_zhihu"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/costum_btn"
+        android:text="知乎"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/costum_btn"
+        android:text="取消"
+        android:textSize="20sp" />
+</LinearLayout>

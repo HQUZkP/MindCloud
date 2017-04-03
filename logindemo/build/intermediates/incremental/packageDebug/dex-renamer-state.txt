@@ -1,0 +1,7 @@
+#Mon Apr 03 23:39:19 CST 2017
+base.0=D\:\\MindCloud\\logindemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c65bfdd3c3b12f48e5e94625baaa02bbde1bda8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MindCloud\\logindemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_284ee1ee0ac8c1c8f2c1615fec6fa5af48b11afc\\classes.dex
+base.1=D\:\\MindCloud\\logindemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_284ee1ee0ac8c1c8f2c1615fec6fa5af48b11afc
+file.0=D\:\\MindCloud\\logindemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c65bfdd3c3b12f48e5e94625baaa02bbde1bda8\\classes.dex
