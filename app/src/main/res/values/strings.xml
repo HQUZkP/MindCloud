@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">应晖大项目</string>
+    <string name="images">%d images</string>
+    <string name="gl_wait">请稍等</string>
+</resources>
