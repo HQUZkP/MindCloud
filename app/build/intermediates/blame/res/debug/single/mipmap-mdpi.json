@@ -4,6 +4,14 @@
         "source": "D:\\MindCloud\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
     },
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logo.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }

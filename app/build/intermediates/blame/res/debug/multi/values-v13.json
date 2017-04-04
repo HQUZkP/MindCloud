@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\MindCloud\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {
@@ -11,7 +35,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-v13\\values-v13.xml",
+                    "file": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\values-v13\\values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

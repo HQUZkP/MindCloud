@@ -1,15 +1,39 @@
 [
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\faq_normal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\faq_normal.png"
+    },
+    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic8.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic8.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic2.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic2.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\break_noemal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\break_noemal.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic11.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic11.png"
     },
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic8.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic8.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personal_pager_enter.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\personal_pager_enter.png"
+    },
+    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textsize_pressed.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\textsize_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic13.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic13.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_left_click.png",
@@ -20,20 +44,24 @@
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic12.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\break_noemal.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\break_noemal.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textsize_pressed.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\textsize_pressed.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_gallery.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_gallery.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_normal.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic3.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic3.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_left_normal.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_left_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic9.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic9.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic2.png",
@@ -44,36 +72,24 @@
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_right_click.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic5.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic5.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_gallery.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_gallery.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\faq_pressed.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\faq_pressed.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_right_normal.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_right_normal.png"
-    },
-    {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic10.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic10.png"
-    },
-    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\faq_normal.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\faq_normal.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personal_pager_update.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\personal_pager_update.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personal_pager_update.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\personal_pager_update.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\break_pressed.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\break_pressed.png"
-    },
-    {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic4.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic4.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic6.png",
@@ -84,12 +100,120 @@
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic9.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic13.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic13.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_indicator_autocrop.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_indicator_autocrop.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textsize_normal.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\textsize_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic7.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic7.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textsize_normal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\textsize_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_right_normal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic4.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic4.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic3.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic3.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic1.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic1.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_pressed.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\faq_pressed.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\faq_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic12.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic12.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_left_click.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_left_click.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic5.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic5.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_normal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_indicator_autocrop2.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_indicator_autocrop2.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic11.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic11.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\break_noemal.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\break_noemal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_pressed.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_normal.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic10.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic10.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic5.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic5.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic6.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic6.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_right_normal.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_right_normal.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic10.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic10.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personal_pager_update.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\personal_pager_update.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic4.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic4.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_left_normal.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_left_normal.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic1.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic1.png"
+    },
+    {
+        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic13.png",
+        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic13.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personal_pager_enter.png",
@@ -100,27 +224,27 @@
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textsize_normal.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\textsize_normal.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_rotate_right_click.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_rotate_right_click.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic7.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic7.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic3.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\pic3.png"
-    },
-    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_indicator_autocrop2.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_indicator_autocrop2.png"
     },
     {
-        "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_pressed.png",
-        "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\break_pressed.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\break_pressed.png"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gl_indicator_autocrop.png",
         "source": "D:\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\gl_indicator_autocrop.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
     }
 ]

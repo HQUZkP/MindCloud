@@ -1,18 +1,34 @@
 [
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]

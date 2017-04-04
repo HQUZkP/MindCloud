@@ -1,14 +1,26 @@
 [
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "D:\\MindCloud\\logindemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "D:\\MindCloud\\logindemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "D:\\MindCloud\\logindemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

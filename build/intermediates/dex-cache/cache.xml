@@ -3,111 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="B:\l\androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_d53186a1351d3ddb3d1345978f20e64f14ec8514\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_671b7cd1637f62e15f8cfa814b311fb61099882e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_19df2e880f77348973f436bf098eefd13920d892\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_e04f461328853414abd0bb84a4b5c60af7c666b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_32bab32afc33cae6fc12c3e3ca68455665320fb2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_63b33c17e89de89eeb8f957cc939f0625c7fb905\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_12c593dcc2a63e0249c8c6002c684d2cca49a48a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jar="C:\Users\KaipingZhou\.android\build-cache\b8e2011e162a7897cfd8e9c333568ced35e9a4e6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_7c90ca35ef74384f57276562ddfc240558425315\classes.dex" />
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97549a23e572e05a77f4f622d7d1eb3ade78ef1f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jar="C:\Users\KaipingZhou\.android\build-cache\ed09803a4949a7f7632ec86312658c76069923aa\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_e6087196b21e42ce34abfba1540380a418e3aa8d\classes.dex" />
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26501f5c1f90b5e042723c89bd3b1ac27a61ba02\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jar="D:\MindCloud\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06f69daaed32f8fafb4ead3a5d246436a8bde283">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f1856f2916633b2be6368d309eaaca5f314b482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\67dfe3c75ebdcad45b1346d6c9697f646f1ac1a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39390d0c8710b88a09a58edfb0934d00832b1499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MindCloud\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_76abf9187cfaf34bd57867f5fd9468fbdd97757e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\f81f2ee45ef116014023e90da0fdaf289792aa2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34bfe0c677ddcac822e32cde1b3fa072df085f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\e254a62dc9506ef9fccee085479f21d0c9a55c73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fb48817a8b30a03d39ae624d31b0a350c4d1fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\ad515af9d950985b1321288e9824a45b7de4b009\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e47a273fef1d7090d2bf1b223670e3b5244e3f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5ba9d328da9e3e55075079373cd3a5b78dd62646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\a1e66a0e428a47abb4941e3f7c2e2e74a278b972\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_a4aa3b7fb4865009c748d27b2caa880d377d4a06\classes.dex" />
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a7a4158f4f185577bc27e1370b4194214ef377b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\KaipingZhou\.android\build-cache\ad396382df47060edee6a193aa6dad6ce41f764d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4ba7e8bf4e247a653d93b5fe1359a4bb6f141639">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_284ee1ee0ac8c1c8f2c1615fec6fa5af48b11afc\classes.dex" />
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfb9d367a8eaa1585e880f86be71a242de984c0a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\MindCloud\logindemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\KaipingZhou\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="08294a069ab6f9d5c29aa247b45c02a9e960148b">
-        <dex dex="D:\MindCloud\logindemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c65bfdd3c3b12f48e5e94625baaa02bbde1bda8\classes.dex" />
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.6.0_7b03289408bd765a060276093998dda73f614a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_2e73a3a78169d574792a60c3f7020e6156683a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\MindCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d23436e61e667f310b3331036262176fa8093d77\classes.dex" />
     </item>
 
 </items>

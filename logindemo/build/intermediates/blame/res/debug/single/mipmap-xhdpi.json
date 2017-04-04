@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStdio\\MindCloud\\logindemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\MindCloud\\logindemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\MindCloud\\logindemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }

@@ -1,159 +1,159 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:9:5-81
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.CAMERA
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:11:5-65
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:11:22-62
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:11:22-62
 application
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:14:5-50:19
-MERGED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:26:5-20
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:14:5-50:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\KaipingZhou\.android\build-cache\f81f2ee45ef116014023e90da0fdaf289792aa2d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad396382df47060edee6a193aa6dad6ce41f764d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\67dfe3c75ebdcad45b1346d6c9697f646f1ac1a5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\KaipingZhou\.android\build-cache\e254a62dc9506ef9fccee085479f21d0c9a55c73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad515af9d950985b1321288e9824a45b7de4b009\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\a1e66a0e428a47abb4941e3f7c2e2e74a278b972\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\b8e2011e162a7897cfd8e9c333568ced35e9a4e6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ed09803a4949a7f7632ec86312658c76069923aa\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:17:9-41
 	android:supportsRtl
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:18:9-35
 	android:allowBackup
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:16:9-36
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:16:9-36
 	android:theme
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:19:9-62
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:19:9-62
 supports-screens
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:22:9-27:43
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:22:9-27:43
 	android:largeScreens
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:24:13-40
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:24:13-40
 	android:smallScreens
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:27:13-40
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:27:13-40
 	android:normalScreens
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:25:13-41
 	android:resizeable
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:26:13-38
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:26:13-38
 	android:anyDensity
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:23:13-38
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:23:13-38
 activity#com.kaipingzhou.mindcloud.controller.activity.SplashActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:29:19-69
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:29:19-69
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.kaipingzhou.mindcloud.controller.activity.GuideActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:37:9-71
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:37:9-71
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:37:19-68
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:37:19-68
 activity#com.kaipingzhou.mindcloud.controller.activity.LoginActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:38:9-71
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:38:9-71
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:38:19-68
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:38:19-68
 activity#com.kaipingzhou.mindcloud.controller.activity.RigisterActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:39:9-74
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:39:9-74
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:39:19-71
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:39:19-71
 activity#com.kaipingzhou.mindcloud.controller.activity.MainActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:40:9-70
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:40:9-70
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:40:19-67
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:40:19-67
 activity#com.kaipingzhou.mindcloud.controller.activity.PersonalActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:41:9-74
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:41:9-74
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:41:19-71
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:41:19-71
 activity#com.kaipingzhou.mindcloud.controller.activity.UpdatePsdActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:42:9-75
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:42:9-75
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:42:19-72
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:42:19-72
 activity#com.kaipingzhou.mindcloud.controller.activity.SelectPictureActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:43:9-79
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:43:9-79
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:43:19-76
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:43:19-76
 activity#com.kaipingzhou.mindcloud.controller.activity.CropImageActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:44:9-75
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:44:9-75
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:44:19-72
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:44:19-72
 activity#com.kaipingzhou.mindcloud.controller.activity.AnsOnlineActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:45:9-75
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:45:9-75
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:45:19-72
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:45:19-72
 activity#com.kaipingzhou.mindcloud.controller.activity.BreakActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:46:9-71
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:46:9-71
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:46:19-68
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:46:19-68
 activity#com.kaipingzhou.mindcloud.game2048.Game2048Activity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:47:9-63
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:47:9-63
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:47:19-60
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:47:19-60
 activity#com.kaipingzhou.mindcloud.gamesokoban.GameTXZActivity
-ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:48:9-65
+ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:48:9-65
 	android:name
-		ADDED from D:\MindCloud\app\src\main\AndroidManifest.xml:48:19-62
+		ADDED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml:48:19-62
 uses-sdk
-INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\KaipingZhou\.android\build-cache\f81f2ee45ef116014023e90da0fdaf289792aa2d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad396382df47060edee6a193aa6dad6ce41f764d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\67dfe3c75ebdcad45b1346d6c9697f646f1ac1a5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\KaipingZhou\.android\build-cache\e254a62dc9506ef9fccee085479f21d0c9a55c73\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad515af9d950985b1321288e9824a45b7de4b009\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\a1e66a0e428a47abb4941e3f7c2e2e74a278b972\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\b8e2011e162a7897cfd8e9c333568ced35e9a4e6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ed09803a4949a7f7632ec86312658c76069923aa\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStdio\MindCloud\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\AndroidManifest.xml:22:5-24:34
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\KaipingZhou\.android\build-cache\f81f2ee45ef116014023e90da0fdaf289792aa2d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad396382df47060edee6a193aa6dad6ce41f764d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\67dfe3c75ebdcad45b1346d6c9697f646f1ac1a5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\KaipingZhou\.android\build-cache\e254a62dc9506ef9fccee085479f21d0c9a55c73\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ad515af9d950985b1321288e9824a45b7de4b009\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\a1e66a0e428a47abb4941e3f7c2e2e74a278b972\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\KaipingZhou\.android\build-cache\b8e2011e162a7897cfd8e9c333568ced35e9a4e6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\KaipingZhou\.android\build-cache\ed09803a4949a7f7632ec86312658c76069923aa\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.0] D:\MindCloud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\KaipingZhou\.android\build-cache\18e9d12877b13d9cde6da709f6e29bd70d67f956\output\AndroidManifest.xml:26:9-47

@@ -1,42 +1,82 @@
 [
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_switch_track.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_default.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_spinner.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color-v23\\abc_tint_edittext.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     }
 ]

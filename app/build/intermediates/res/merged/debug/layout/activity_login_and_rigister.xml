@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:background="@drawable/bg"
     android:orientation="vertical">
 
-    <ImageView
-        android:layout_width="100dp"
-        android:layout_height="200dp"
-        android:layout_gravity="center_horizontal"
-        android:src="@mipmap/logo" />
 
     <RelativeLayout
         android:id="@+id/rl_activity_login"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
         android:layout_margin="15dp"
         android:background="@drawable/background_login_div_bg"
         android:padding="15dp">
@@ -32,11 +28,12 @@
 
         <EditText
             android:id="@+id/et_loginid"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="35dp"
             android:layout_below="@id/tv_loginid"
             android:layout_marginTop="3dp"
             android:background="@drawable/editext_corners_bg"
+            android:hint="请输入学号"
             android:inputType="text"
             android:lines="1" />
 
@@ -53,18 +50,44 @@
 
         <EditText
             android:id="@+id/et_loginpsd"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="35dp"
             android:layout_below="@id/tv_loginpsd"
             android:layout_marginTop="3dp"
             android:background="@drawable/editext_corners_bg"
+            android:hint="请输入密码"
             android:inputType="textPassword"
             android:lines="1" />
+
+        <ImageView
+            android:id="@+id/iv_check_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_loginpsd"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <EditText
+            android:id="@+id/et_check_code"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_below="@id/iv_check_code"
+            android:background="@drawable/editext_corners_bg"
+            android:hint="请输入上方图片验证码" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/et_check_code"
+            android:layout_marginBottom="5dp"
+            android:layout_toRightOf="@id/iv_check_code"
+            android:text="不区分大小写"
+            android:textColor="#99000000" />
 
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/et_loginpsd"
+            android:layout_below="@id/et_check_code"
             android:layout_marginTop="10dp"
             android:gravity="center_vertical">
 
@@ -92,9 +115,9 @@
                 android:id="@+id/tv_fogot_psd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@id/tv_no_account"
                 android:gravity="center_vertical"
                 android:text="忘记密码？"
-                android:layout_below="@id/tv_no_account"
                 android:textSize="18sp" />
 
             <TextView
@@ -122,4 +145,4 @@
         </RelativeLayout>
     </RelativeLayout>
 
-</LinearLayout>
+</RelativeLayout>

@@ -1,6 +1,10 @@
 [
     {
+        "merged": "D:\\AndroidStdio\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
         "merged": "D:\\MindCloud\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\MindCloud\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\drawable-v23\\abc_control_background_material.xml"
+        "source": "C:\\Users\\KaipingZhou\\.android\\build-cache\\18e9d12877b13d9cde6da709f6e29bd70d67f956\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]
